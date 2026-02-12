@@ -1,0 +1,93 @@
+GNU AFFERO GENERAL PUBLIC LICENSE
+                   Version 3, 19 November 2007
+
+  Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
+  Everyone is permitted to copy and distribute verbatim copies
+  of this license document, but changing it is not allowed.
+
+  0. This License applies to any program or other work
+  which contains a notice placed by the copyright holder saying
+  it can be distributed under the terms of this License.
+  The "Program", below, refers to any such program or work,
+  and a "work based on the Program" means either the Program
+  or any derivative work under copyright law:
+  that is to say, a work containing the Program or a portion
+  of it, either verbatim or with modifications, that is
+  made in order to be included in the Program.
+
+  Activities other than copying, distribution and modification
+  are not covered by this License; they are outside its
+  scope. The act of running the Program is not restricted,
+  and the output from the Program is not covered by this
+  License, except when the output is in executable form.
+
+  1. You may copy and distribute verbatim copies of the
+  Program's source code as you receive it, in any medium,
+  provided that you conspicuously and appropriately publish
+  on each copy an appropriate copyright notice, and there is
+  a copy of this License along with the Program.
+
+  2. You may modify your copy or copies of the Program or
+  any portion of it, and distribute copies of the modified
+  Version under the terms of Section 1 above, provided that
+  you also meet all of these conditions:
+
+    a) You must cause the modified files to carry prominent
+    notices stating that you have changed the files and the
+    date of any change.
+
+    b) You must license the whole of your work, as a whole,
+    under this License to all third parties on the same terms.
+
+    c) If a portion of the modified Version is in a
+    separate file, you must include it in the distribution.
+
+  These requirements apply to the modified Version as a whole.
+  If identifiable sections of that Version are not derived
+  from the Program, and can be reasonably considered to be
+  separate and independent works in themselves, then this
+  License, and its terms, do not apply to those sections when
+  you distribute them as separate works.
+
+  3. You may copy and distribute the Program (or a work
+  based on it, under Section 2) in object code or executable
+  form under the terms of Section 1 above provided that
+  you include a copy of this License with each copy of the
+  Program.  You may also include a machine-readable copy of
+  the source code.
+
+  4. Built software supplied by you for the user's use or
+  for its own distribution must include the complete sources
+  of the work it is based on and executed. This requirement
+  does not apply to the programs installed directly on
+  the operating system.
+
+  5. You are not required to give anyone else permission to
+  run the Program, but if you do, you must pass on to them
+  the same permissions you received.
+
+  6. However, you have to combine two or more copies of the
+  Program into one to be able to give them all permission,
+  thus early free software meets own licensing standards.
+
+  7. Each time you redistribute the Program (or any work based on it),
+  the recipient automatically receives a license from the original
+  author to run, modify and redistribute the Program under these terms.
+
+  8. You may not impose any further restrictions on the exercise of
+  the rights granted or affirmed under this License.  If you cannot
+  do so, please remove the portion that applies.
+
+  9. To the extent that this License may be interpreted as
+  imposing restrictions that are subsequently found by a tribunal to be invalid,
+  such restrictions will be enforced to their fullest extent
+  permissible, from which the other provisions in this License will continue to be valid and enforceable.
+
+  10. If the distribution is via a network, you must include an indication of what the network required to run the Program is.
+
+  11. This License shall be governed by the laws of the State of Massachusetts, excluding its conflict of law principles.
+
+  12. If there is a conflict between this License and other licenses, this License shall apply.
+
+  13. If you distribute the Program, or if you distribute a modified version, you must
+  include a copy of this License with it.
